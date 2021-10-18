@@ -52,6 +52,12 @@ Here's where I want to have info on ringtails.
 
 ![Ringtail cat (courtesy of Virginia Zoom)](img/ringtail_cat.jpg)
 We'll aloso learn about  'knitr::include_graphics()'
+
+Add a few fun facts about ringtail cats : 
+-They are not endangered 
+-closely related to racoons 
+
+
 ###
 
 ----------
