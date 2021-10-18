@@ -1,6 +1,6 @@
 # ESM 206 Lab 4: Meet GitHub
 
-Olivia Isbell
+## Olivia Isbell
 
 ### Objectives:
 
